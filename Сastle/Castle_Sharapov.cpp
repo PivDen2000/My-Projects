@@ -3,11 +3,10 @@
 using namespace std;
 
 /*
-Задача
-Имееться замок в форме треугольника, с тремя башнями и тремя стенами.
-Цель расположить войска так что бы колличество человек на каждой стороне
-соответсвовали заданым числам side1, side2, side3 так же задано
-общее колличество человек all.
+Task
+There is a castle in the shape of a triangle, with three towers and three walls.
+The goal is to place the people so that the number of people on each side
+matched the given numbers side1, side2, side3 also given total number of people.
 */
 
 int MIN(int a, int b) {

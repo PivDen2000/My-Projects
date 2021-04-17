@@ -4,7 +4,7 @@
 using namespace std;
 
 /*
-Меняет цвет консоли на каждый вывод "Hello World!!!"
+Change color of console on each output of "Hello World!!!"
 */
 
 int main() {
